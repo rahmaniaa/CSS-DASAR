@@ -1,0 +1,21 @@
+inheritance: sebuah elemen mewarisi beberapa nilai dari properti yg dimiliki oleh elemen parentnya
+properti yg diwariskan: 
+-color
+-font
+-letter-spacing
+-line-heigt
+-list-style
+-text-align
+-text-indent
+-text-transform
+-visibility
+-white-space
+
+jika warna tidak berubah maka properti harus ditambahkan inherit pada elemen tersebut
+
+specificity: setiap deklarasi css (selector) memiliki berat yg berbeda. berat tersebut menentukan seberapa spesifik sebuah elemen dapat dipilih oleh selector.
+menghitung nilai spesifik: 
+#p1=    inline  id  class   element
+            0    1     0        0
+p=          0    0     0        1
+maka #p1 lebih berat

@@ -1,0 +1,18 @@
+body h1 {
+    font-family: 'Courier New';
+    text-align: center;
+    font-size: 30px;
+    color: mediumslateblue;
+}
+
+body p {
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    font-size: 30px;
+    color: mediumorchid;
+}
+
+body {
+    background-image: url(cssdasar/foto.profil.jpeg);
+    background-repeat: repeat-x;
+}

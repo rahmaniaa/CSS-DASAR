@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+h1, h2 {
+    color: maroon;
+}
+
+ul li a {
+    color: mediumpurple;
+}
+
+ol li a {
+    color: mediumturquoise;
+}
+
+#p1 {
+    color: navy;
+}
+.p2 {
+    color: olive;
+}
